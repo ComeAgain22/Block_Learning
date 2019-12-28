@@ -1,0 +1,9 @@
+*.md linguist-language=Object-C 
+*.yml linguist-language=Object-C 
+*.html linguist-language=Object-C 
+*.js linguist-language=Object-C 
+*.xml linguist-language=Object-C
+*.css linguist-language=Object-C 
+*.sql linguist-language=Object-C
+*.uml linguist-language=Object-C 
+*.cmd linguist-language=Object-C
